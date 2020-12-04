@@ -1,0 +1,13 @@
+.home{
+    float: left;
+    font-size: 15px;
+}
+
+
+.header-bottom {
+    color:rgb(83, 83, 199);
+    text-align: left;
+    line-height: .3pc;
+    margin-top: 5px;
+    margin-left: 5px;
+  }

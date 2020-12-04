@@ -1,0 +1,43 @@
+.dropdown .dropbtn {
+    font-size: 20px;
+    border: black;
+    color: white;
+    border-radius: .4pc;
+    padding:15px 25px 25px 25px ;
+    background-color: blue;
+
+ 
+  }
+ 
+  
+    .button1:hover .dropbtn{
+    background-color:green;
+  }
+     .button2:hover .dropbtn{
+    background-color:yellow;
+  }
+  .button3:hover .dropbtn{
+    background-color:#ff0000;
+  }
+  .dropleft {
+      
+    float: right;
+    overflow: hidden; 
+  }
+
+  .dropleft .dropbtn {
+    font-size: 16px;
+    border-radius: .4pc;
+    padding: 20px 20px;
+    background-color: inherit;
+    font-family: inherit;
+    background-color:lightgray;
+    color: white;
+  }
+.text{
+/* padding:15px 150px 25px 5px ; */
+padding: 15px 150px 25px 0px ;
+size: 30px;
+}
+  
+
